@@ -11,5 +11,8 @@ result_aggregation.sh – script to aggreagte stats from vcf files
 
 Analyzes.R – script to process stats and output pictures
 
+fragment_size_distribution.py – modified version of python script getinsertsize.py (https://gist.github.com/davidliwei/2323462). It outputs the table with counts that is more suitable for plotting.
+
+
 
 
