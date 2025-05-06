@@ -9,6 +9,7 @@ raw_vcf_to_ready_by_1_batch_depth_5.sh – script to process the obtained vcf fi
 
 result_aggregation.sh – script to aggreagte stats from vcf files
 
+Analyzes.R – script to process stats and output pictures
 
 
 
